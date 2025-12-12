@@ -1,0 +1,28 @@
+{
+    "resumes": [
+        {
+            "id": 1702000001,
+            "name": "Alex Chen",
+            "dob": "1995-03-15",
+            "email": "alex.chen@example.com",
+            "contact": "+1 (555) 123-4567",
+            "dateAdded": "12/8/2025"
+        },
+        {
+            "id": 1702000002,
+            "name": "Sarah Johnson",
+            "dob": "1992-07-22",
+            "email": "sarah.j@techcorp.io",
+            "contact": "+1 (555) 987-6543",
+            "dateAdded": "12/7/2025"
+        },
+        {
+            "id": 1702000003,
+            "name": "Michael Rodriguez",
+            "dob": "1998-11-05",
+            "email": "m.rodriguez@devmail.com",
+            "contact": "+1 (555) 456-7890",
+            "dateAdded": "12/5/2025"
+        }
+    ]
+}
